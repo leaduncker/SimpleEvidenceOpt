@@ -1,6 +1,6 @@
 # SimpleEvidenceOpt
 
-This repository contains code to perform simple Emprirical Bayesian Evidence Optimization for Spatio-Temporal receptive fields. The code flexibly combines different covariance functions for the spatial and temporal component of the receptive field.
+This repository contains code to perform simple Emprirical Bayesian Evidence Optimization for Spatio-Temporal receptive fields. The code flexibly combines different covariance functions for the spatial and temporal component of the receptive field. The script demo.m shows a simple example for how to use the code.
 
 ## Available Covariance Functions
 * Automatic Smoothness Determination [1]
